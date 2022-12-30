@@ -13,7 +13,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   display: flex;
-  justify-content: flex-start;
   align-items: center;
   padding: 17px;
   flex: 0;
