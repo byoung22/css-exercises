@@ -55,7 +55,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+<<<<<<< HEAD
   flex: none;
+=======
+  border: 1px solid #eee;
+  padding: 0;
+>>>>>>> upstream/main
 }
 
 .middle {
@@ -70,6 +75,7 @@ body {
 
 
 button {
+  cursor: pointer;
   padding: 8px 16px;
   border-radius: 8px;
 }

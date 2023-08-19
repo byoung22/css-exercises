@@ -46,10 +46,6 @@
 
 .sidebar {
   background-color: #FF7755;
-
-  grid-area: 2 / 1 / 4 / 2;
-  display: grid;
-  gap: 50px;
 }
 
 .sidebar .photo {
@@ -76,15 +72,6 @@
 
 .nav {
   background-color: #FF7755;
-
-  grid-area: 2 / 2 / 3 / -1;
-  display: grid;
-  align-items: center;
-}
-
-.nav ul {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .nav ul li {
@@ -138,5 +125,5 @@
 
 .footer p {
   font-size: 13px;
-  font-weight: normal;  
+  font-weight: normal;
 }

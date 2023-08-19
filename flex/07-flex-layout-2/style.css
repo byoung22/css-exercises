@@ -44,6 +44,7 @@ body {
   padding: 60px;
   max-width: 1400px;
   gap: 60px;
+  box-sizing: border-box;
 }
 
 .card {
